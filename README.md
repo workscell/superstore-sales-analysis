@@ -27,7 +27,6 @@ The goal is to transform business data into meaningful insights that can help un
 | Microsoft Excel | Data exploration, analysis, and dashboard creation |
 | PostgreSQL | Database management and SQL-based exploratory analysis |
 | Microsoft Power BI | Data visualization, KPI creation, and interactive dashboard |
-| GitHub | Project documentation and portfolio publication |
 
 ## Dataset
 
